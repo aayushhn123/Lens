@@ -1,3 +1,3 @@
 # Lens
-Tanusha'a Website
+Photography Exhibition Website
 https://aayushhn123.github.io/Lens/
